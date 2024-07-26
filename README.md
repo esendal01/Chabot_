@@ -1,12 +1,20 @@
 Gerekli kütüphaneler
 import sys
+
 import random
+
 import json
+
 import numpy as np
+
 import torch
+
 import re
+
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLineEdit, QPushButton, QLabel, QScrollArea, QFrame, QSizePolicy
+
 from PyQt5.QtCore import Qt, QTimer
+
 from PyQt5.QtGui import QPixmap
 
 import requests
